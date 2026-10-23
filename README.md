@@ -1,6 +1,4 @@
 # 🎮 NOME DO JOGO (A SER PENSADO)
-# DESAFIO 🕹️ Improve This Game 🕹️
----
 
 Como Executar o Código
 Clone este repositório:
