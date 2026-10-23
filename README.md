@@ -1,13 +1,7 @@
-DESAFIO 🕹️ Improve This Game 🕹️
+# DESAFIO 🕹️ Improve This Game 🕹️
 
-Universidade Federal Rural de Pernambuco
-
-Departamento de Estatística e Informática
-
-Bacharelado em Sistemas de Informação
-
-Disciplina: Princípios de Programação
-
+# NOME DO JOGO (A SER PENSADO)
+---
 
 DESAFIO: Melhoria do Jogo de Personagens - POO em Python
 Descrição do Desafio
