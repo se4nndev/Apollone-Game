@@ -14,7 +14,7 @@ https://github.com/se4nndev/Apollone-Game.git
 cd Apollone-Game
 ```
 
-4. Execute o jogo:
+3. Execute o jogo:
 ```bash
 python main.py
 ```
