@@ -6,7 +6,7 @@
 ## 💻 Como Executar o Código:
 1. Clone este repositório:
 ```bash
-git clone https://github.com/profcvanut/improve-this-game.git
+https://github.com/se4nndev/Apollone-Game.git
 ```
 
 2. Acesse a pasta do projeto:
