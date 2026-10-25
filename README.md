@@ -4,4 +4,4 @@ A humanidade está no ápice de uma crise energética global, o que levou a mega
 
 
 ## 📚 Como Executar o Código:
-'''git clone https://github.com/profcvanut/improve-this-game.git'''
+```git clone https://github.com/profcvanut/improve-this-game.git```
