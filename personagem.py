@@ -5,7 +5,6 @@ class Personagem:
             'vida': vida,
             'ataque': ataque,
             'defesa': defesa,
-            'habilidades': []
         }
 
     def dialogar(self, texto):
