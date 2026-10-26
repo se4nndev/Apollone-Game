@@ -1,32 +1,5 @@
 class Personagem:
     def __init__(self, nome, vida, ataque, defesa):
-        self.nome = nome
-        self.vida = vida
-        self.ataque = ataque
-        self.defesa = defesa
-        self.habilidades = []
-
-    def dialogar(self, texto):
-        print(f'\n[{self.nome}]: {texto}')
-
-
-    def upgrade_vida(self, incremento=10):  #Aumenta a vida do personagem. O valor padrão de incremento é 10.
-        self.vida += incremento
-        print(f'Vida de {self.nome} após upgrade: {self.vida}')
-
-    def downgrade_vida(self):  #Reduz a vida do personagem, garantindo que não fique negativa
-        if self.vida > 15:
-            self.vida -= 15
-        else:
-            self.vida = 0
-        print(f'Vida de {self.nome} após downgrade: {self.vida}')
-
-    def __str__(self):
-        return f'Personagem: {self.nome}, Vida: {self.vida}, Ataque: {self.ataque}, Defesa: {self.defesa}'
-
-'''
-class Personagem:
-    def __init__(self, nome, vida, ataque, defesa):
         self.ficha_personagem = {
             'nome': nome,
             'vida': vida,
@@ -55,4 +28,3 @@ class Personagem:
         ataque = self.ficha_personagem['ataque']
         defesa = self.ficha_personagem['defesa']
         return f'Personagem: {nome}, Vida: {vida}, Ataque: {ataque}, Defesa: {defesa}'
-'''
