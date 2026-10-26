@@ -5,7 +5,7 @@
 ## 🤩 Inspirações:
 Esse jogo simples, mas divertido, foi inspirado a partir de algumas obras:
 1. Interestelar (2014)
-2. It: A Coisa (2017)
+2. It: A Coisa e It: Capítulo 2 (2017 e 2019)
 3. DeadSpace (Jogo)
 4. Unicron (Personagem de Transformers)
 
