@@ -33,7 +33,7 @@ class Combate:
                 print(f"\nFogo! Canhões de Laser atingiram o monstro!")
 
                 dano_heroi_vilao = heroi.ataque - vilao.defesa
-                if dano_heroi_vilao < 0:
+                if dano_heroi_vilao < 0: #evitar dano negativo
                     dano_heroi_vilao = 0
                 vilao.vida -= dano_heroi_vilao
                 print(f"{vilao.nome} tomou {dano_heroi_vilao} de dano!")

@@ -2,7 +2,6 @@ from heroi import Heroi
 from vilao import Vilao
 from combate import Combate
 
-
 def pausar():
     input("(Pressione Enter para continuar...)")
 
