@@ -37,7 +37,7 @@ class Combate:
                     dano_heroi_vilao = 0
                 vilao.vida -= dano_heroi_vilao
                 print(f"{vilao.nome} tomou {dano_heroi_vilao} de dano!")
-                self.historico.append(f"O Cap. Castyel (Apollonne) atacou com o Canhão de Plasma e causou {dano_heroi_vilao} de dano")
+                self.historico.append(f"O Cap. Castyel (Apollonne) atacou com os Canhões de Laser e causou {dano_heroi_vilao} de dano")
 
             elif opcao == "2":
                 heroi.ativar_escudos()
